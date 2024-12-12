@@ -1,6 +1,8 @@
 ## Dynamic Event Calendar Application
 A Dynamic Event Calendar Application built using React.js, shadcn/ui, Tailwind CSS, and date-fns. The app allows users to manage events seamlessly, demonstrating advanced React logic, clean UI design, and data persistence.
 
+* Here is the Live Link Of Project - https://assingment-wn4yy6vru-chirag-tank1971s-projects.vercel.app
+
 ## Features
 1. Calendar View
 * Displays a grid for the current month.
@@ -29,14 +31,14 @@ A Dynamic Event Calendar Application built using React.js, shadcn/ui, Tailwind C
 1. Install Dependencies
 Ensure you have Node.js and npm installed. Then, run:
 
-bash
-Copy code
-npm install
+# bash
+* Copy code
+* npm install
 
 2. Start the Development Server
-bash
-Copy code
-npm start
+* bash
+* Copy code
+* npm start
 
 ## Usage
 * Adding an Event
